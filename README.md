@@ -27,7 +27,7 @@ This repository contains scripts, outputs, visualizations, and reports related t
 
 ### 8. **Q3 CSV Files**
    - A collection of CSV files starting with "Q3" in their filenames, containing the requested outputs from the Q3 analysis.
-     - **Average Invoice Total by Country**: Two versions—one using customer country and the other using billing country.
+     - **Average Invoice Total by Country**: Two versions—one using customer country and the other using billing country. Although the results are the same.
      - **Employee Sales Report**: Three versions—two filtered based on provided criteria, and an additional `Q34x_` file ranking all employees by their sales performance.
 
 ### 9. **Q3 Insights.docx**
